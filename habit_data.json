@@ -1,0 +1,52 @@
+{
+    "Drinking Water": {
+        "description": "",
+        "creation_date": "2025-07-10",
+        "completion_history": {
+            "2025-07-10": true,
+            "2025-07-15": true,
+            "2025-07-16": true,
+            "2025-07-17": true
+        }
+    },
+    "Gym": {
+        "description": "",
+        "creation_date": "2025-07-10",
+        "completion_history": {
+            "2025-07-10": true,
+            "2025-07-15": true,
+            "2025-07-16": true,
+            "2025-07-17": true
+        }
+    },
+    "Meditation": {
+        "description": "",
+        "creation_date": "2025-07-10",
+        "completion_history": {
+            "2025-07-10": true,
+            "2025-07-15": true,
+            "2025-07-16": true,
+            "2025-07-17": true
+        }
+    },
+    "walking": {
+        "description": "",
+        "creation_date": "2025-07-10",
+        "completion_history": {
+            "2025-07-10": true,
+            "2025-07-15": true,
+            "2025-07-16": true,
+            "2025-07-17": true
+        }
+    },
+    "playing chess": {
+        "description": "",
+        "creation_date": "2025-07-10",
+        "completion_history": {
+            "2025-07-10": true,
+            "2025-07-15": true,
+            "2025-07-16": true,
+            "2025-07-17": true
+        }
+    }
+}
